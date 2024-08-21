@@ -6,3 +6,5 @@ The user should sign up, and then login and create notes.
 The user can logout anytime he wants, then re-login.
 
 Make sure to run npm install in the react app to install the modules, and use the following command to run the front end : 'npm run dev'
+
+For the backend make sure to install the requirements.txt file , and run the app using the following command : 'py manage.py runserver' if on windows
