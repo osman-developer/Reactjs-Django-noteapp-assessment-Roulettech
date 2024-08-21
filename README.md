@@ -7,7 +7,7 @@ The user can logout anytime he wants, then re-login.
 
 Make sure to run npm install in the react app to install the modules, and use the following command to run the front end : 'npm run dev'
 
-For the backend make sure to install the requirements.txt file , and run the app using the following command : 'py manage.py runserver' if on windows
+For the backend make sure to install the requirements.txt file , and run the app using the following command : 'py manage.py runserver' if on windows.
 
 
 ![4](https://github.com/user-attachments/assets/7e4cb341-cfd5-495f-a2d6-7ba532728e62)
